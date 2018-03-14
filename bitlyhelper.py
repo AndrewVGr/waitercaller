@@ -1,5 +1,5 @@
 import json
-import urllib
+import urllib.request
 
 TOKEN = "e55fe641b909471ba0937f3b5e6d62e79149c07b"
 ROOT_URL = "https://api-ssl.bitly.com"
